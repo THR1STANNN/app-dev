@@ -1,3 +1,3 @@
-** My Fav Series / Movies**
+** My Fav Series **
 
-1. Harry Potter : Sorcerer's Stone
+1. Peaky Blinders
