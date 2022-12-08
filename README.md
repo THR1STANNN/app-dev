@@ -1,9 +1,3 @@
-# app-dev
-My first repository
-	```
-{
-  "Title": "Peaky Blinders",
-  "Genre": "Drama","Crime Film","Historical Fiction",
-  "Year": 2013
-}
-```
+** My Fav Series / Movies**
+
+1. Harry Potter : Sorcerer's Stone
